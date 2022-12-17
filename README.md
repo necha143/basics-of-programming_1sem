@@ -89,5 +89,5 @@ filepath , а также одну из выбранных команд <br />
 **--set=prop_name --value=prop_value** - выставляет значение
 определенного поля метаинформации с именем prop_name в
 значение prop_value <br />
-**--get=prop_name** - вывести определенное метаинформации с именем prop_name
+**--get=prop_name** - вывести определенное метаинформации с именем prop_name <br />
     [**Решение**](https://github.com/necha143/basics-of-programming_1sem/blob/main/ID3V2.c) <br />
